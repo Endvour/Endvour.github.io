@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bits</title>
-    <link>http://Endvour.github.io/</link>
-    <description>Recent content on Bits</description>
+    <title>Endeavour on Bits</title>
+    <link>http://Endvour.github.io/authors/endeavour/</link>
+    <description>Recent content in Endeavour on Bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Mar 2023 22:52:43 +0800</lastBuildDate><atom:link href="http://Endvour.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 22:51:56 +0800</lastBuildDate><atom:link href="http://Endvour.github.io/authors/endeavour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://Endvour.github.io/posts/hello/</link>

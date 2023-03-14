@@ -5,6 +5,16 @@
     <link>http://Endvour.github.io/authors/</link>
     <description>Recent content in Authors on Bits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://Endvour.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Mar 2023 22:51:56 +0800</lastBuildDate><atom:link href="http://Endvour.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endeavour</title>
+      <link>http://Endvour.github.io/authors/endeavour/</link>
+      <pubDate>Tue, 14 Mar 2023 22:51:56 +0800</pubDate>
+      
+      <guid>http://Endvour.github.io/authors/endeavour/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
