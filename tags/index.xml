@@ -5,6 +5,16 @@
     <link>http://Endvour.github.io/tags/</link>
     <description>Recent content in Tags on Bits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://Endvour.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Mar 2023 22:51:56 +0800</lastBuildDate><atom:link href="http://Endvour.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Null</title>
+      <link>http://Endvour.github.io/tags/null/</link>
+      <pubDate>Tue, 14 Mar 2023 22:51:56 +0800</pubDate>
+      
+      <guid>http://Endvour.github.io/tags/null/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
